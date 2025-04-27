@@ -91,3 +91,9 @@ aeußere_funktion()
 |-----------------|----------------------------------------------------------------------|
 | `global`        | Zugriff und Änderung einer globalen Variable innerhalb einer Funktion |
 | `nonlocal`      | Zugriff und Änderung einer Variablen aus einer äußeren Funktion       |
+
+## Aufgabe
+Gehen Sie zur folgenden Seite und Lösen Sie die Multiple Choice Aufgaben:
+[Multiple Choice zu Sichtbarkeit von Variablen](https://bergisches-berufskolleg.github.io/python-kurs-starter-funktionen-pks-svv/)  
+
+**Hinweis**: In diesem Tutorial muss kein Quellcode geschrieben und hochgeladen werden. Es geht lediglich um Theory samt Selbstüberprüfung per Multple Choice.
